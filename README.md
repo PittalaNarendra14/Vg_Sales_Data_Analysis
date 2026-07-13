@@ -68,7 +68,7 @@ The dataset includes information such as:
 > Add your dashboard screenshot below.
 
 ![Dashboard Preview](VG_Sales_Dashboard_1.png)
-![Dashboard Preview](VG_Sales_Dashboard_2.png)
+![Dashboard Preview](VG_Sales_Detailed_Dashboard_2.png)
 
 ---
 
@@ -156,7 +156,7 @@ This project was developed as part of my Power BI learning journey to strengthen
 
 **Narendra Pittala**
 
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/PittalaNarendra14
 - LinkedIn: https://www.linkedin.com/in/narendrapittala/
 
 ---
